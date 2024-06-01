@@ -1,3 +1,1 @@
-<a href="#user-profile-frame">
-    <img src="https://raw.githubusercontent.com/ThatGuyAstral/ThatGuyAstral/main/terminal.svg">
-</a>
+![Terminal](https://github.com/ThatGuyAstral/ThatGuyAstral/blob/main/terminal.png)
